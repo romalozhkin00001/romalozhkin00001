@@ -1,3 +1,15 @@
-h1 {
-    font-family: Helvetica, Geneva, Arial, Roboto, sans-serif;
-  }
+
+.size {
+    width: 100%;
+    max-width: 576px;
+    height: auto;
+}
+
+
+.block {
+    text-align: center;
+}
+
+.container {
+    display: inline-block;
+}
